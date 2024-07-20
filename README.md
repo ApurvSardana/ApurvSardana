@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ApurvSardana
-- 👀 I’m interested in learning to code
 - 📫 Reach me @apurvsardana1@gmail.com
 - 😄 Pronouns: he/him
 
