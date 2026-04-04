@@ -5,7 +5,7 @@
 - 💻 Languages: C, C++, Python
 - 🚀 Favorite projects:
  [Implementing-a-Neural-Network-from-scratch](https://github.com/ApurvSardana/Implementing-a-Neural-Network-from-scratch) & [Hand-written-Digit-Recognizer](https://github.com/ApurvSardana/Hand-written-Digit-Recognizer)
-- ♟️ Current Hobby: Ricing Linux, Playing Chess
+- ♟️ Current Hobby: Watching Snooker and RDR2 videos!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/apurv-sardana)
 
 Feel free to connect and check out my projects!
